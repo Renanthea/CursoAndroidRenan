@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemplo Orientação Tela</string>
+    <string name="app_btn_incluir">Incluir curso na lista</string>
+</resources>
