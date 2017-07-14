@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="logos">
+        <item>@drawable/amil</item>
+        <item>@drawable/biovida</item>
+        <item>@drawable/brad</item>
+        <item>@drawable/gama</item>
+        <item>@drawable/unimed</item>
+    </array>
+</resources>
