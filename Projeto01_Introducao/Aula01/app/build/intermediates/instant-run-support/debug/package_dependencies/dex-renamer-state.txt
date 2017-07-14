@@ -1,0 +1,4 @@
+#Thu Jul 13 15:33:18 BRT 2017
+base.0=/Users/apple/Documents/Curso Android/Projeto01_Introducao/app/build/intermediates/transforms/dexMerger/debug/21
+renamed.0=classes.dex
+file.0=/Users/apple/Documents/Curso Android/Projeto01_Introducao/app/build/intermediates/transforms/dexMerger/debug/21/classes.dex

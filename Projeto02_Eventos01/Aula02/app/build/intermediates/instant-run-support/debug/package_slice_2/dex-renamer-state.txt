@@ -1,0 +1,4 @@
+#Fri Jul 14 09:39:22 BRT 2017
+base.0=/Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/build/intermediates/transforms/dexMerger/debug/2
+renamed.0=classes.dex
+file.0=/Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex

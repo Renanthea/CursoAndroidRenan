@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fd5c4cf45751fab3668b7ae616aa08e6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fd5c4cf45751fab3668b7ae616aa08e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fd5c4cf45751fab3668b7ae616aa08e6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:11:9-40
+activity#br.com.renan.aula02_eventos01.MainActivity
+ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:12:19-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fd5c4cf45751fab3668b7ae616aa08e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fd5c4cf45751fab3668b7ae616aa08e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Curso Android/Projeto02_Eventos01/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/26a4a6b0c2551942c9f12e8dea6aef3d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/c3fd2bf37ed8f8e20df26219b04342c8/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/92ac8aeee8f2e80640df9271795ce9f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ac31f3126a40568e4ddcc942dc8a647b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/edc071672996ba84f54b63b7e2234948/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/12aa7025becc8d074041b45272bb00b8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/1124827ece8a4e688aa956430125b131/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/189e6de65908b5fdfc0b04e55cbdb64a/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/82ff9e5fa97d789e06de2a1d388975a9/AndroidManifest.xml:26:9-47

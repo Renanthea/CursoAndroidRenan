@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto02 - Tratando Eventos</string>
+
+    <string name="app_layout_titulo">Exemplo de Eventos</string>
+    <string name="app_layout_nome">Informe seu nome</string>
+    <string name="app_layout_botao">OK</string>
+
+    <string name="msg_erro">Por favor, informe seu nome</string>
+</resources>
