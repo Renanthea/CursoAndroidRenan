@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Projeto03_Eventos02</string>
+
+    <!-- variáveis do projeto -->
+    <string name="app_layout_android">Android</string>
+    <string name="app_layout_ios">iOS</string>
+
+    <string name="app_layout_masculino">Masculino</string>
+    <string name="app_layout_feminino">Feminino</string>
+    <string name="app_layout_btn_verificar">Verificar</string>
+</resources>
