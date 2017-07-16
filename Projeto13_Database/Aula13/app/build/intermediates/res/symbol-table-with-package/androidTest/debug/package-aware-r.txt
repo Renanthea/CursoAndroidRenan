@@ -1,2 +1,0 @@
-br.com.renan.aula13_database.test
-int string app_name 0x7f010000
